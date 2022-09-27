@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **anything, really**
 
-- 📫 How to reach me **kevin.helmsmith@ctrlup.io**
-
 - 📄 Learn more about me [https://www.chezkev.in/](https://www.chezkev.in/)
 
 - ⚡ Fun fact **I don't know how to code :)**
